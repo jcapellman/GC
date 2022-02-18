@@ -1,2 +1,2 @@
 # GC
-Streaming of data abstraction r&d
+Streaming of data abstraction r&d for Azure, AWS, GCP
